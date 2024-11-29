@@ -2,7 +2,7 @@
 ## 論文 Spine Ultrasound Stitching and Spinal Cord Abnormality Detective
 
 
-**Data** 請到以下網址下載:
+### Data download:
 
 https://drive.google.com/drive/folders/19Xq0TH3QLYMPUSC-QI3UHMzvF6CrNXr5?usp=drive_link
 
