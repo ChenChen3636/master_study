@@ -24,4 +24,5 @@ GPU NVIDIA GeForce RTX 4090
 ### 訓練模型
 
 **Lumbar segmentation model path:**  models/uefficientnetB7_segmentation.ipynb
+
 **Sacrum segmentation model path:**  models/uefficientnetB7_segmentation_sacrum.ipynb
